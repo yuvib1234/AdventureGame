@@ -1,1 +1,1 @@
-echo "Welcome to the Adventure Game!"
+echo "Welcome to the Ultmiate Adventure Game!"
